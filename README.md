@@ -22,7 +22,7 @@ git clone https://github.com/pijulius/picom)
 ### What is Sddm?
 The Simple Desktop Display Manager (SDDM) is a display manager.
 
-###4. config Sddm >
+#4. config Sddm >
 ```bash 
 sudo systemctl enable sddm 
 ``` 
