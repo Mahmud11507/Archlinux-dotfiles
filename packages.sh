@@ -1,12 +1,10 @@
 alacritty
 arc-gtk-theme
 arc-icon-theme
-brightnessctl
 chromium
-code
+vscode
 feh
 gimp
-git
 lxappearance
 mpc
 mpd
@@ -24,7 +22,6 @@ telegram-desktop
 unzip
 vim
 vlc
-which
 xorg-xbacklight
 zip
 zsh
