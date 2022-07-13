@@ -1,4 +1,4 @@
-## Archlinux-setup
+### Archlinux-setup
 #1. install Archlinux >  
 ```bash 
 archinstall 
@@ -17,3 +17,10 @@ sudo pacman -S --needed - < packages.sh
 ```bash 
 sudo systemctl enable sddm 
 ``` 
+#5. Awesome theme Config  >
+###Installation
+```bash
+git clone --recurse-submodules --remote-submodules --depth 1 -j 2 https://github.com/lcpz/awesome-copycats.git
+
+mv -bv awesome-copycats/{*,.[^.]*} ~/.config/awesome; rm -rf awesome-copycats
+```bash
