@@ -13,7 +13,13 @@ Next > git clone https://github.com/Komi7/Archlinux-setup.git
 ```bash 
 sudo pacman -S --needed - < packages.sh
 ``` 
-#4. config Sddm > 
+* [picom](```bash
+git clone https://github.com/pijulius/picom)
+```
+\[YOU WILL NEED THE PIJULIUS FORK!\]
+### What is Sddm?
+The Simple Desktop Display Manager (SDDM) is a display manager.
+#4. config Sddm >
 ```bash 
 sudo systemctl enable sddm 
 ``` 
@@ -23,4 +29,4 @@ sudo systemctl enable sddm
 git clone --recurse-submodules --remote-submodules --depth 1 -j 2 https://github.com/lcpz/awesome-copycats.git
 
 mv -bv awesome-copycats/{*,.[^.]*} ~/.config/awesome; rm -rf awesome-copycats
-```bash
+```
