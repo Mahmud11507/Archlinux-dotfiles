@@ -33,3 +33,5 @@ git clone --recurse-submodules --remote-submodules --depth 1 -j 2 https://github
 
 mv -bv awesome-copycats/{*,.[^.]*} ~/.config/awesome; rm -rf awesome-copycats
 ```
+
+**NOTE!** These were made for my computer specifications. So use it at your own risk! 
