@@ -9,7 +9,7 @@ sudo pacman -S git
 ``` 
 My dot-Config File > 
 ```bash
-git clone https://github.com/Komi7/Archlinux-setup.git
+git clone https://github.com/Komi7/Archlinux-dotfiles.git
 ```
 #3. Packages install >
 ```bash 
