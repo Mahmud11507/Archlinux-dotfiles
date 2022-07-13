@@ -7,8 +7,10 @@ archinstall
 ```bash 
 sudo pacman -S git 
 ``` 
-Next > git clone https://github.com/Komi7/Archlinux-setup.git
-
+My dot-Config File > 
+```bash
+git clone https://github.com/Komi7/Archlinux-setup.git
+```
 #3. Packages install >
 ```bash 
 sudo pacman -S --needed - < packages.sh
