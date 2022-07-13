@@ -15,10 +15,10 @@ git clone https://github.com/Komi7/Archlinux-setup.git
 ```bash 
 sudo pacman -S --needed - < packages.sh
 ``` 
-* [picom](```bash
+* [picom]
+```bash
 git clone https://github.com/pijulius/picom)
 ```
-\[YOU WILL NEED THE PIJULIUS FORK!\]
 ### What is Sddm?
 The Simple Desktop Display Manager (SDDM) is a display manager.
 #4. config Sddm >
