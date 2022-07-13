@@ -35,3 +35,9 @@ mv -bv awesome-copycats/{*,.[^.]*} ~/.config/awesome; rm -rf awesome-copycats
 ```
 
 **NOTE!** These were made for my computer specifications. So use it at your own risk! 
+
+**Extra theme**
+```bash
+git clone https://github.com/rxyhn/dotfiles.git
+```
+***only for GTK THEMES**
