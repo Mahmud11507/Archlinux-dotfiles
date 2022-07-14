@@ -71,4 +71,4 @@ gtk-decoration-layout=close,maximize,minimize:menu
 cp misc/vscode/User/settings.json ~/.config/Code/User
 ```
   
-***only for GTK THEMES**
+***modify ongoing***
