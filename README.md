@@ -63,5 +63,7 @@ gtk-decoration-layout=close,maximize,minimize:menu
 . 
 <a href="https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui">Customize UI</a>
 
+.
+<a href="https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon">Carbon Product Icons</a>
   
 ***only for GTK THEMES**
