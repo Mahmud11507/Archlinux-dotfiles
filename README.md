@@ -59,7 +59,7 @@ gtk-decoration-layout=close,maximize,minimize:menu
 ☄️ ‎ Aesthetic VSCode setup:
 #1.Install required extension
 #.
-         <a href="[https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui]"
+         <a href="https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui"
 
   
 ***only for GTK THEMES**
