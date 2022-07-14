@@ -17,7 +17,7 @@ sudo pacman -S --needed - < packages.sh
 ``` 
 * [picom]
 ```bash
-git clone https://github.com/pijulius/picom)
+git clone https://aur.archlinux.org/picom-git.git
 ```
 ### What is Sddm?
 The Simple Desktop Display Manager (SDDM) is a display manager.
