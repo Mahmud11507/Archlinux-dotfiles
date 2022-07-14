@@ -55,8 +55,9 @@ cp -rf themes/Aesthetic-Night-GTK4/* ~/.config/gtk-3.0
 ```bash
 gtk-decoration-layout=close,maximize,minimize:menu
 ```
-
 6. Aesthetic VSCode setup ☄️:
+
+
 
  1.Install required extension
 
