@@ -57,6 +57,8 @@ gtk-decoration-layout=close,maximize,minimize:menu
 ```
 
 6.Aesthetic VSCode setup ☄️:
+
+
  1.Install required extension
 
   •
@@ -71,3 +73,7 @@ cp misc/vscode/User/settings.json ~/.config/Code/User
 ```
   
 ***modify ongoing ! ...........🤞***
+
+
+
+
