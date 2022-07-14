@@ -3,15 +3,24 @@
 ```bash 
 archinstall 
 ``` 
-2. install Git > 
+2. install Awesome,Sddm ,Git > 
 ```bash 
-sudo pacman -S git 
+sudo pacman -S awesome sddm git
 ``` 
-My dot-Config File > 
+### What is Sddm?
+The Simple Desktop Display Manager (SDDM) is a display manager.
+
+3. config Sddm >
+```bash 
+sudo systemctl enable sddm 
+``` 
+**than reboot
+
+4. clone dot-Config File > 
 ```bash
 git clone https://github.com/Komi7/Archlinux-dotfiles.git
 ```
-3. Packages install >
+5. Packages install >
 ```bash 
 sudo pacman -S --needed - < packages.sh
 ``` 
@@ -19,14 +28,10 @@ sudo pacman -S --needed - < packages.sh
 ```bash
 git clone https://aur.archlinux.org/picom-git.git
 ```
-### What is Sddm?
-The Simple Desktop Display Manager (SDDM) is a display manager.
 
-4. config Sddm >
-```bash 
-sudo systemctl enable sddm 
-``` 
-5. Awesome theme Config  >
+
+
+6. Awesome theme Config  >
 ###Installation
 ```bash
 mkdir .config/awesome
@@ -38,7 +43,7 @@ mv -bv awesome-copycats/{*,.[^.]*} ~/.config/awesome; rm -rf awesome-copycats
 
 **NOTE!** These were made for my computer specifications. So use it at your own risk! 
 
-5.Aesthetic-Night gtk theme setup:
+7.Aesthetic-Night gtk theme setup:
 1. go to Archlinux-dotfiles download location & unzip theme zip file
 ```bash
 cd ~/Download/Archlinux-dotfiles
@@ -56,7 +61,7 @@ cp -rf themes/Aesthetic-Night-GTK4/* ~/.config/gtk-3.0
 gtk-decoration-layout=close,maximize,minimize:menu
 ```
 
-6.Aesthetic VSCode setup ☄️:
+8.Aesthetic VSCode setup ☄️:
 
 
  1.Install required extension
