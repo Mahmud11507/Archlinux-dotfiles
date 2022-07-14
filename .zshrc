@@ -11,7 +11,6 @@ fi
 
 alias updatepkgs='sudo pacman -Syyu'
 alias unlock='sudo rm /var/lib/pacman/db.lck'
-alias cleanup='sudo pacman -Rns $(pacman -Qtdq)'
 alias df='df -h'
 alias cp='cp -i'
 alias mv='mv -i'
@@ -21,6 +20,7 @@ alias ls='exa -al --color=always --group-directories-first' # my preferred listi
 alias la='exa -a --color=always --group-directories-first'  # all files and dirs
 alias nf='neofetch'
 alias morbin="sudo pacman -S"
+alias off="shutdown"
 
 HISTFILE=~/.history-zsh
 HISTSIZE=10000
@@ -37,5 +37,4 @@ setopt hist_verify              # Don't execute immediately upon history expansi
 setopt inc_append_history       # Write to history file immediately, not when shell quits
 setopt share_history            # Share history among all sessions
 
-eval "$(starship init zsh)"
 export PATH=$PATH:/home/unix/.spicetify
