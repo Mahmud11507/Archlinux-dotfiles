@@ -65,5 +65,10 @@ gtk-decoration-layout=close,maximize,minimize:menu
 
 .
 <a href="https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon">Carbon Product Icons</a>
+
+2.copy config file
+```bash
+cp misc/vscode/User/settings.json ~/.config/Code/User
+```
   
 ***only for GTK THEMES**
