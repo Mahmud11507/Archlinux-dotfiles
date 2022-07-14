@@ -1,9 +1,9 @@
 ### Archlinux-setup
-#1. install Archlinux >  
+1. install Archlinux >  
 ```bash 
 archinstall 
 ``` 
-#2. install Git > 
+2. install Git > 
 ```bash 
 sudo pacman -S git 
 ``` 
@@ -11,7 +11,7 @@ My dot-Config File >
 ```bash
 git clone https://github.com/Komi7/Archlinux-dotfiles.git
 ```
-#3. Packages install >
+3. Packages install >
 ```bash 
 sudo pacman -S --needed - < packages.sh
 ``` 
@@ -22,11 +22,11 @@ git clone https://aur.archlinux.org/picom-git.git
 ### What is Sddm?
 The Simple Desktop Display Manager (SDDM) is a display manager.
 
-#4. config Sddm >
+4. config Sddm >
 ```bash 
 sudo systemctl enable sddm 
 ``` 
-#5. Awesome theme Config  >
+5. Awesome theme Config  >
 ###Installation
 ```bash
 mkdir .config/awesome
@@ -71,4 +71,4 @@ gtk-decoration-layout=close,maximize,minimize:menu
 cp misc/vscode/User/settings.json ~/.config/Code/User
 ```
   
-***modify ongoing ...........🤞***
+**modify ongoing ! ...........🤞**
