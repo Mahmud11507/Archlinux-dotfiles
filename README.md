@@ -38,7 +38,7 @@ mv -bv awesome-copycats/{*,.[^.]*} ~/.config/awesome; rm -rf awesome-copycats
 
 **NOTE!** These were made for my computer specifications. So use it at your own risk! 
 
-Aesthetic-Night gtk theme setup:
+5.Aesthetic-Night gtk theme setup:
 1. go to Archlinux-dotfiles download location & unzip theme zip file
 ```bash
 cd ~/Download/Archlinux-dotfiles
@@ -56,7 +56,7 @@ cp -rf themes/Aesthetic-Night-GTK4/* ~/.config/gtk-3.0
 gtk-decoration-layout=close,maximize,minimize:menu
 ```
 
-☄️ ‎ Aesthetic VSCode setup:
+6. Aesthetic VSCode setup ☄️:
 
 1.Install required extension
 
