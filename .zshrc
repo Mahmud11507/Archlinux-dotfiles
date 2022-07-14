@@ -20,7 +20,7 @@ alias ls='exa -al --color=always --group-directories-first' # my preferred listi
 alias la='exa -a --color=always --group-directories-first'  # all files and dirs
 alias nf='neofetch'
 alias morbin="sudo pacman -S"
-alias off="shutdown"
+alias off="sudo shutdown"
 
 HISTFILE=~/.history-zsh
 HISTSIZE=10000
