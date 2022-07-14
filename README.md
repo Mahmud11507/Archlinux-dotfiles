@@ -51,7 +51,7 @@ sudo cp -rf themes/Aesthetic-Night/* /usr/share/themes
 
 cp -rf themes/Aesthetic-Night-GTK4/* ~/.config/gtk-3.0
 ```
-2. Add this line on ```bash ~/.config/gtk-3.0/settings.ini ``` for left controls
+2. Add this line on ``` ~/.config/gtk-3.0/settings.ini ``` for left controls
 ```bash
 gtk-decoration-layout=close,maximize,minimize:menu
 ```
