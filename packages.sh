@@ -1,3 +1,4 @@
+awesome
 alacritty
 arc-gtk-theme
 arc-icon-theme
