@@ -38,16 +38,18 @@ mv -bv awesome-copycats/{*,.[^.]*} ~/.config/awesome; rm -rf awesome-copycats
 
 **NOTE!** These were made for my computer specifications. So use it at your own risk! 
 
-**Extra theme**
+**Aesthetic-Night gtk theme**
 ```bash
-git clone https://github.com/rxyhn/dotfiles.git
+cd ~/Download/Archlinux-dotfiles
+unzip themes.zip
 ```
+
 Setup:
 #1. Copy the themes to the themes folders
 ```bash
-sudo cp -rf misc/themes/Aesthetic-Night/* /usr/share/themes
+sudo cp -rf themes/Aesthetic-Night/* /usr/share/themes
 
-cp -rf misc/themes/Aesthetic-Night-GTK4/* ~/.config/gtk-3.0
+cp -rf themes/Aesthetic-Night-GTK4/* ~/.config/gtk-3.0
 ```
 #2. Add this line on [~/.config/gtk-3.0/settings.ini] for left controls
 ```bash
