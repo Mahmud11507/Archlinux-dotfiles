@@ -83,7 +83,7 @@ cp misc/vscode/User/settings.json ~/.config/Code/User
 <h1 align="center">Hi , I'm Shousuke Komi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Linux+user)](https://git.io/typing-svg)">
 </p>
 
 
