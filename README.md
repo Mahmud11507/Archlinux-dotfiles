@@ -39,7 +39,7 @@ mv -bv awesome-copycats/{*,.[^.]*} ~/.config/awesome; rm -rf awesome-copycats
 **NOTE!** These were made for my computer specifications. So use it at your own risk! 
 
 Aesthetic-Night gtk theme setup:
-1. go to Archlinux-dotfiles download location
+1. go to Archlinux-dotfiles download location & unzip theme zip file
 ```bash
 cd ~/Download/Archlinux-dotfiles
 unzip themes.zip
