@@ -70,5 +70,5 @@ gtk-decoration-layout=close,maximize,minimize:menu
       <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-
+ </p>
 ***only for GTK THEMES**
