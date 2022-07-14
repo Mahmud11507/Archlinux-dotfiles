@@ -42,4 +42,11 @@ mv -bv awesome-copycats/{*,.[^.]*} ~/.config/awesome; rm -rf awesome-copycats
 ```bash
 git clone https://github.com/rxyhn/dotfiles.git
 ```
+Setup:
+#1.Copy the themes to the themes folders
+```zsh
+sudo cp -rf misc/themes/Aesthetic-Night/* /usr/share/themes
+
+cp -rf misc/themes/Aesthetic-Night-GTK4/* ~/.config/gtk-3.0
+```
 ***only for GTK THEMES**
