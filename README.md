@@ -29,6 +29,8 @@ sudo systemctl enable sddm
 #5. Awesome theme Config  >
 ###Installation
 ```bash
+mkdir .config/awesome
+
 git clone --recurse-submodules --remote-submodules --depth 1 -j 2 https://github.com/lcpz/awesome-copycats.git
 
 mv -bv awesome-copycats/{*,.[^.]*} ~/.config/awesome; rm -rf awesome-copycats
