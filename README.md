@@ -14,7 +14,7 @@ The Simple Desktop Display Manager (SDDM) is a display manager.
 ```bash 
 sudo systemctl enable sddm 
 ``` 
-**than reboot
+<h2 align="center">🆒 ***than reboot***</h2>
 
 4. clone dot-Config File > 
 ```bash
