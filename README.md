@@ -103,7 +103,7 @@ cp misc/vscode/User/settings.json ~/.config/Code/User
       <br/>
       <a href="https://t.me/mahmud11507" target="blank"><img align="center"
          src="https://img.shields.io/badge/-Telegram-brightgreen"
-         alt="azzar" height="30"/></a>
+         alt="komii" height="30"/></a>
       <a href="https://discord.com/channels/@me/724963674477035561" target="blank"><img align="center"
-         src="https://img.shields.io/badge/-Telegram-brightgreen"
-         alt="azzar" height="30"/></a>
+         src="https://img.shields.io/badge/Discord"
+         alt="komii" height="30"/></a>
