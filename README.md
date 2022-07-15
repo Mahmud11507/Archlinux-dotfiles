@@ -102,6 +102,6 @@ cp misc/vscode/User/settings.json ~/.config/Code/User
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         src="https://img.shields.io/badge/-Telegram-brightgreen"
          alt="azzar" height="30"/></a>
 
