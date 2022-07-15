@@ -104,7 +104,6 @@ cp misc/vscode/User/settings.json ~/.config/Code/User
       <a href="https://t.me/mahmud11507" target="blank"><img align="center"
          src="https://img.shields.io/badge/-Telegram-brightgreen"
          alt="azzar" height="30"/></a>
-     
       <a href="https://discord.com/channels/@me/724963674477035561" target="blank"><img align="center"
          src="https://img.shields.io/badge/-Telegram-brightgreen"
          alt="azzar" height="30"/></a>
